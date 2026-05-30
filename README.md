@@ -1,15 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jude+Crispin+S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE+Engineer+%7C+Embedded+Systems+%26+Data+Analytics+Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Jude%20Crispin%20S&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%2C+I'm+Jude+Crispin+%F0%9F%91%8B;ECE+Engineer+%7C+Embedded+%2B+IoT+Explorer;Python+%7C+ML+%7C+Image+Processing+Dev;Turning+Ideas+into+Real+Hardware+%26+Software" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%2C+I'm+Jude+Crispin;ECE+Engineer+%7C+Embedded+%26+IoT+Explorer;Python+%7C+Machine+Learning+Developer;Building+Hardware+and+Software+Solutions" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=JudeCrispin&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/JudeCrispin?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117" alt="GitHub Followers"/>
-</div>
+  <img src="https://img.shields.io/github/followers/JudeCrispin?label=Followers&style=flat-square&color=bf91f3" alt="GitHub Followers"/>
+</p>
+
 
 ---
 
