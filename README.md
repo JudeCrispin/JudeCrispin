@@ -24,7 +24,7 @@ class JudeCrispin:
         self.location    = "Chennai, India 🇮🇳"
         self.degree      = "B.E – Electronics & Communication Engineering"
         self.university  = "Sathyabama Institute of Science & Technology"
-        self.cgpa        = 8.2
+        self.cgpa        =  8.2
         self.linkedin    = "linkedin.com/in/judecrispins"
         self.email       = "s.judecrispin05@gmail.com"
         self.leetcode    = "leetcode.com/u/jude_crispin"
