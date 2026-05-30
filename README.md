@@ -124,7 +124,9 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JudeCrispin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=JudeCrispin&theme=onedark&row=1&column=6" />
+
 </div>
 
 ---
@@ -255,7 +257,7 @@ print(me.motto())
 📡 Wireless & RF     →  SDR, Antenna Design, Signal Processing
 🤖 Machine Learning  →  OpenCV Pipelines, Model Deployment, Edge AI
 🔬 VLSI & Hardware   →  VLSI Fundamentals, Digital Design, Verilog Basics
-☁️  Cloud & Data      →  Cloud Computing, Advanced Power BI, Data Pipelines
+☁️  Cloud & Data     →  Cloud Computing, Advanced Power BI, Data Pipelines
 ```
 
 ---
