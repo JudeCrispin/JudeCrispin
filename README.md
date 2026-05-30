@@ -87,24 +87,6 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JudeCrispin&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JudeCrispin&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JudeCrispin&theme=tokyonight" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -117,16 +99,6 @@ print(me.motto())
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCrispin&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JudeCrispin&theme=onedark&row=1&column=6" />
-
 </div>
 
 ---
