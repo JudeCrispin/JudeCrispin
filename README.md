@@ -16,40 +16,44 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```python
 class JudeCrispin:
     def __init__(self):
-        self.name        = "Jude Crispin S"
-        self.location    = "Chennai, India 🇮🇳"
-        self.degree      = "B.E – Electronics & Communication Engineering"
-        self.university  = "Sathyabama Institute of Science & Technology"
-        self.cgpa        =  8.2
-        self.linkedin    = "linkedin.com/in/judecrispins"
-        self.email       = "s.judecrispin05@gmail.com"
-        self.leetcode    = "leetcode.com/u/jude_crispin"
+        self.name     = "Jude Crispin S"
+        self.location = "Chennai, India 🇮🇳"
+        self.degree   = "B.E – ECE"
+        self.cgpa     = 8.2
+        self.email    = "s.judecrispin05@gmail.com"
 
         self.stack = [
             "Python", "Java", "SQL",
             "Embedded C", "ARM Cortex (STM32)",
-            "Arduino", "OpenCV", "MATLAB", "Power BI"
+            "Arduino", "OpenCV", "Power BI"
         ]
 
-        self.currently_learning = [
-            "Machine Learning & Image Processing",
-            "SDR & Wireless Communication",
-            "VLSI Basics & PCB Design"
+        self.learning = [
+            "ML & Image Processing",
+            "SDR & Wireless Comms",
+            "VLSI & PCB Design"
         ]
 
     def motto(self):
-        return "Turning hard work into skills and smart work into solutions"
+        return "Build it. Break it. Learn. Ship it. 🚀"
 
 me = JudeCrispin()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%" align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="max-width:420px"/>
+</td>
+</tr>
+</table>
 
 ---
 
