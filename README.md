@@ -88,16 +88,20 @@ print(me.motto())
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JudeCrispin&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudeCrispin&layout=compact&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JudeCrispin&theme=tokyonight" />
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JudeCrispin&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JudeCrispin&theme=tokyonight" />
+
+</div>
 
 ---
 
