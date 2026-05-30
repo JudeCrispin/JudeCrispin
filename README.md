@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="100" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class JudeCrispin:
@@ -42,10 +42,8 @@ class JudeCrispin:
             "VLSI Basics & PCB Design"
         ]
 
-        self.fun_fact = "I trained a model to count calories from food photos 🍕📷"
-
     def motto(self):
-        return "Build it. Break it. Learn from it. Ship it. 🚀"
+        return "Turning hard work into skills and smart work into solutions"
 
 me = JudeCrispin()
 print(me.motto())
