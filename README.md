@@ -13,46 +13,33 @@
 
 
 ---
-
-
+## 🧑‍💻 About Me
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="middle" width="52%">
 
 ```python
 class JudeCrispin:
-    def __init__(self):
-        self.name     = "Jude Crispin S"
-        self.location = "Chennai, India 🇮🇳"
-        self.degree   = "B.E – ECE"
-        self.cgpa     = 8.2
-        self.email    = "s.judecrispin05@gmail.com"
+    name     = "Jude Crispin S"
+    location = "Chennai, India 🇮🇳"
+    degree   = "B.E – ECE @ Sathyabama"
+    cgpa     = 8.2
+    email    = "s.judecrispin05@gmail.com"
 
-        self.stack = [
-            "Python", "Java", "SQL",
-            "Embedded C", "ARM Cortex (STM32)",
-            "Arduino", "OpenCV", "Power BI"
-        ]
+    stack    = ["Python", "Java", "Embedded C",
+                "ARM Cortex", "OpenCV", "Power BI"]
 
-        self.learning = [
-            "ML & Image Processing",
-            "SDR & Wireless Comms",
-            "VLSI & PCB Design"
-        ]
+    learning = ["ML & Image Processing",
+                "SDR & Wireless Comms",
+                "VLSI & PCB Design"]
 
-    def motto(self):
-        return "Build it. Break it. Learn. Ship it. 🚀"
-
-me = JudeCrispin()
-print(me.motto())
+    motto    = "Build it. Break it. Learn. Ship it. 🚀"
 ```
 
 </td>
-<td valign="top" width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="max-width:420px"/>
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="max-width:420px"/>
+<td valign="middle" width="48%" align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 </td>
 </tr>
 </table>
