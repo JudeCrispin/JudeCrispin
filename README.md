@@ -21,20 +21,22 @@
 
 ```python
 class JudeCrispin:
-    name     = "Jude Crispin S"
-    location = "Chennai, India 🇮🇳"
-    degree   = "B.E – ECE @ Sathyabama"
-    cgpa     = 8.2
-    email    = "s.judecrispin05@gmail.com"
+    name       = "Jude Crispin S"
+    degree     = "B.E – Electronics & Communication Engineering"
+    university = "Sathyabama Institute of Science & Technology"
+    linkedin   = "linkedin.com/in/judecrispins"
+    email      = "s.judecrispin05@gmail.com"
+    leetcode   = "leetcode.com/u/jude_crispin"    
+    email      = "s.judecrispin05@gmail.com"
 
-    stack    = ["Python", "Java", "Embedded C",
+    stack    = ["Python", "Java", "Embedded C", "SQL",
                 "ARM Cortex", "OpenCV", "Power BI"]
 
     learning = ["ML & Image Processing",
                 "SDR & Wireless Comms",
                 "VLSI & PCB Design"]
 
-    motto    = "Build it. Break it. Learn. Ship it. 🚀"
+    motto    = "Turning hard work into skills and smart work into solutions"
 ```
 
 </td>
