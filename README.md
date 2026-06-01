@@ -222,7 +222,7 @@ class JudeCrispin:
 📡 Wireless & RF     →  SDR, Antenna Design, Signal Processing
 🤖 Machine Learning  →  OpenCV Pipelines, Model Deployment, Edge AI
 🔬 VLSI & Hardware   →  VLSI Fundamentals, Digital Design, Verilog Basics
-☁️  Cloud & Data     →  Cloud Computing, Advanced Power BI, Data Pipelines
+☁️ Cloud & Data      →  Cloud Computing, Advanced Power BI, Data Pipelines
 ```
 
 ---
